@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'com.rc'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.google.guava', name: 'guava', version: '27.1-jre'
+    compile 'joda-time:joda-time:2.10.2'
+    compile 'org.joda:joda-convert:2.2.1:classic'
+
+}
