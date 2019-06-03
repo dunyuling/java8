@@ -1,8 +1,8 @@
 ##lambda
-    * 定义
-        lambda:In Programming languages such as Lisp,Python and Ruby Lambda is an operator
-        used to denote anonymous functions or closures ,following the usage of lambda 
-        calculus.
+    + 定义
+        * lambda:In Programming languages such as Lisp,Python and Ruby Lambda is an operator
+            used to denote anonymous functions or closures ,following the usage of lambda 
+            calculus.
     + 概要
         * 匿名函数;没有声明的方法,即没有访问修饰符,返回值声明和名字
         * lambda表达式为java增加了缺失的函数式编程的特性,使我们能将函数当做一等公民看待
@@ -72,4 +72,4 @@
     * 无法重复使用                      
     
 ##注意
-    * 这份文档写的过于简略.主要在于学习过程中,大部分时间用于了源码的学习,而自己的理解程度和概况能力尚不足以很好的完善文档细节.故应根据具体代码进行学习    
+    + 这份文档写的过于简略.主要在于学习过程中,大部分时间用于了源码的学习,而自己的理解程度和概况能力尚不足以很好的完善文档细节.故应根据具体代码进行学习    
